@@ -1,0 +1,46 @@
+/* html font style */
+h1,
+h2,
+h3,
+p {
+  font-family: Helvetica;
+}
+
+/* title style */
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  }
+
+/* title background image */
+#art{
+  background-image: url(../image/pattern.jpeg);
+}
+
+/* H2 tag style */
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/* H2 specific ID background color */
+#brushes{
+  background-color: mediumspringgreen;
+}
+#frames{
+  background-color: lightcoral;
+}
+#paint{
+  background-color: skyblue;
+}
+
+/* Pricing style */
+span{
+  font-weight: bold;
+  color: blue;
+}
+
+/*Style by Madina G*/
